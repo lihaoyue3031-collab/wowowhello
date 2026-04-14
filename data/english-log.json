@@ -1,0 +1,291 @@
+{
+  "entries": [
+    {
+      "date": "2026-03-01",
+      "content": "开始系统学习商务英语，整理了常用表达清单",
+      "duration": "50min",
+      "type": "writing",
+      "notes": "制定了3月学习计划"
+    },
+    {
+      "date": "2026-03-02",
+      "content": "Anki单词复习+新增30个词汇",
+      "duration": "25min",
+      "type": "vocabulary",
+      "notes": null
+    },
+    {
+      "date": "2026-03-04",
+      "content": "听BBC Learning English播客一集",
+      "duration": "35min",
+      "type": "listening",
+      "notes": "语速偏快，需要多听几遍"
+    },
+    {
+      "date": "2026-03-05",
+      "content": "阅读了一篇经济学人文章，标注生词",
+      "duration": "45min",
+      "type": "reading",
+      "notes": "金融类词汇积累不够"
+    },
+    {
+      "date": "2026-03-06",
+      "content": "模拟英语面试场景对话练习",
+      "duration": "30min",
+      "type": "speaking",
+      "notes": null
+    },
+    {
+      "date": "2026-03-07",
+      "content": "Anki复习+背了40个新词",
+      "duration": "35min",
+      "type": "vocabulary",
+      "notes": null
+    },
+    {
+      "date": "2026-03-08",
+      "content": "看了TED演讲 'The power of vulnerability'",
+      "duration": "40min",
+      "type": "listening",
+      "notes": "Brené Brown的演讲很棒，记了不少表达"
+    },
+    {
+      "date": "2026-03-10",
+      "content": "写了一篇英语日记",
+      "duration": "30min",
+      "type": "writing",
+      "notes": "尝试用新学的词汇造句"
+    },
+    {
+      "date": "2026-03-11",
+      "content": "口语练习：描述一天的工作流程",
+      "duration": "25min",
+      "type": "speaking",
+      "notes": null
+    },
+    {
+      "date": "2026-03-12",
+      "content": "阅读Medium上的设计类英文文章",
+      "duration": "40min",
+      "type": "reading",
+      "notes": "设计领域的术语相对熟悉"
+    },
+    {
+      "date": "2026-03-13",
+      "content": "Anki单词复习，正确率85%",
+      "duration": "20min",
+      "type": "vocabulary",
+      "notes": null
+    },
+    {
+      "date": "2026-03-14",
+      "content": "听英语播客 'All Ears English'",
+      "duration": "35min",
+      "type": "listening",
+      "notes": "学到了很多俚语表达"
+    },
+    {
+      "date": "2026-03-15",
+      "content": "写了一封正式的商务邮件练习",
+      "duration": "40min",
+      "type": "writing",
+      "notes": "格式和措辞需要再打磨"
+    },
+    {
+      "date": "2026-03-17",
+      "content": "看美剧 'The Bear' 一集，记录表达",
+      "duration": "55min",
+      "type": "listening",
+      "notes": "餐厅场景的口语表达很生活化"
+    },
+    {
+      "date": "2026-03-18",
+      "content": "Anki复习+新增35个词",
+      "duration": "30min",
+      "type": "vocabulary",
+      "notes": null
+    },
+    {
+      "date": "2026-03-19",
+      "content": "阅读Apple Newsroom英文新闻稿",
+      "duration": "25min",
+      "type": "reading",
+      "notes": "科技类新闻稿的写作风格值得学习"
+    },
+    {
+      "date": "2026-03-20",
+      "content": "与AI对话练习口语30分钟",
+      "duration": "30min",
+      "type": "speaking",
+      "notes": "用ChatGPT做角色扮演挺有效"
+    },
+    {
+      "date": "2026-03-21",
+      "content": "听力训练：VOA慢速英语",
+      "duration": "20min",
+      "type": "listening",
+      "notes": null
+    },
+    {
+      "date": "2026-03-22",
+      "content": "背单词+语法复习",
+      "duration": "45min",
+      "type": "vocabulary",
+      "notes": "虚拟语气部分需要加强"
+    },
+    {
+      "date": "2026-03-23",
+      "content": "阅读一篇关于AI的长文",
+      "duration": "50min",
+      "type": "reading",
+      "notes": null
+    },
+    {
+      "date": "2026-03-24",
+      "content": "口语模拟：项目汇报场景",
+      "duration": "35min",
+      "type": "speaking",
+      "notes": "数据描述的表达方式很有用"
+    },
+    {
+      "date": "2026-03-25",
+      "content": "Anki复习，正确率提升到90%",
+      "duration": "20min",
+      "type": "vocabulary",
+      "notes": "进步明显！"
+    },
+    {
+      "date": "2026-03-27",
+      "content": "看了两集 'Silicon Valley'",
+      "duration": "55min",
+      "type": "listening",
+      "notes": "科技圈的梗很多"
+    },
+    {
+      "date": "2026-03-28",
+      "content": "写了产品描述的英文版本",
+      "duration": "40min",
+      "type": "writing",
+      "notes": "练习简洁有力的商业写作"
+    },
+    {
+      "date": "2026-03-29",
+      "content": "阅读HBR文章一篇",
+      "duration": "35min",
+      "type": "reading",
+      "notes": "管理类词汇积累了不少"
+    },
+    {
+      "date": "2026-03-30",
+      "content": "与外教线上对话练习",
+      "duration": "45min",
+      "type": "speaking",
+      "notes": "发音被纠正了几个词"
+    },
+    {
+      "date": "2026-03-31",
+      "content": "月末总结+Anki全面复习",
+      "duration": "50min",
+      "type": "vocabulary",
+      "notes": "3月累计学习约30天"
+    },
+    {
+      "date": "2026-04-01",
+      "content": "4月计划制定+听力训练",
+      "duration": "40min",
+      "type": "listening",
+      "notes": "计划加大口语练习比重"
+    },
+    {
+      "date": "2026-04-02",
+      "content": "Anki单词复习+新增40个词",
+      "duration": "35min",
+      "type": "vocabulary",
+      "notes": null
+    },
+    {
+      "date": "2026-04-03",
+      "content": "阅读The Verge科技文章两篇",
+      "duration": "45min",
+      "type": "reading",
+      "notes": null
+    },
+    {
+      "date": "2026-04-04",
+      "content": "口语练习：描述一个喜欢的产品",
+      "duration": "30min",
+      "type": "speaking",
+      "notes": "尝试用更丰富的形容词"
+    },
+    {
+      "date": "2026-04-05",
+      "content": "看纪录片 'Abstract'，学设计英语",
+      "duration": "60min",
+      "type": "listening",
+      "notes": "设计+英语的完美结合"
+    },
+    {
+      "date": "2026-04-06",
+      "content": "写英文产品评测短文",
+      "duration": "40min",
+      "type": "writing",
+      "notes": null
+    },
+    {
+      "date": "2026-04-07",
+      "content": "Anki复习+语法专项",
+      "duration": "30min",
+      "type": "vocabulary",
+      "notes": "定语从句没问题了"
+    },
+    {
+      "date": "2026-04-08",
+      "content": "听播客 'How I Built This'",
+      "duration": "45min",
+      "type": "listening",
+      "notes": "创业故事的叙述方式很有启发"
+    },
+    {
+      "date": "2026-04-09",
+      "content": "阅读设计思维相关英文书摘",
+      "duration": "35min",
+      "type": "reading",
+      "notes": null
+    },
+    {
+      "date": "2026-04-10",
+      "content": "复习了常用商务英语表达，练习了email写作",
+      "duration": "45min",
+      "type": "writing",
+      "notes": "重点记了 'circle back', 'touch base' 等表达"
+    },
+    {
+      "date": "2026-04-11",
+      "content": "听了一集英语播客，做了听力笔记",
+      "duration": "30min",
+      "type": "listening",
+      "notes": "语速适应得还不错"
+    },
+    {
+      "date": "2026-04-12",
+      "content": "背了50个新单词，用Anki复习旧词",
+      "duration": "40min",
+      "type": "vocabulary",
+      "notes": null
+    },
+    {
+      "date": "2026-04-13",
+      "content": "看了一部美剧，记录了生词和地道表达",
+      "duration": "60min",
+      "type": "listening",
+      "notes": "发现 'no-brainer' 这个表达很实用"
+    },
+    {
+      "date": "2026-04-14",
+      "content": "练习口语，模拟了一段自我介绍场景",
+      "duration": "35min",
+      "type": "speaking",
+      "notes": "需要加强连读和弱读"
+    }
+  ]
+}

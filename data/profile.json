@@ -1,0 +1,42 @@
+{
+  "name": {
+    "zh": "李皓月",
+    "en": "Lee"
+  },
+  "socialId": "capt. jack",
+  "work": {
+    "company": "少年得到",
+    "role": "L2原画业务线统筹与管理"
+  },
+  "interests": [
+    {
+      "name": "PUBG",
+      "detail": "5500+小时，老兵"
+    },
+    {
+      "name": "英语学习",
+      "detail": "每日打卡进行中"
+    },
+    {
+      "name": "脱口秀",
+      "detail": "喜欢看也想尝试"
+    }
+  ],
+  "currentProjects": [
+    {
+      "name": "英语学习",
+      "status": "active",
+      "description": "持续打卡，提升听说读写"
+    },
+    {
+      "name": "基金投资",
+      "status": "active",
+      "description": "长期价值投资策略"
+    },
+    {
+      "name": "AI探索",
+      "status": "active",
+      "description": "探索AI在工作和创作中的应用"
+    }
+  ]
+}

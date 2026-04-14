@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "001",
+      "title": "赛博朋克城市",
+      "description": "用AI生成的赛博朋克风格城市景观",
+      "tool": "Midjourney",
+      "date": "2026-03-15",
+      "image": "/images/placeholder.png",
+      "tags": ["concept-art", "cyberpunk"]
+    },
+    {
+      "id": "002",
+      "title": "水墨山水",
+      "description": "中国传统水墨风格的AI山水画",
+      "tool": "Stable Diffusion",
+      "date": "2026-03-20",
+      "image": "/images/placeholder.png",
+      "tags": ["chinese-art", "landscape"]
+    },
+    {
+      "id": "003",
+      "title": "角色概念设计",
+      "description": "游戏角色概念设计稿，东方幻想风格",
+      "tool": "Midjourney",
+      "date": "2026-04-01",
+      "image": "/images/placeholder.png",
+      "tags": ["character-design", "fantasy"]
+    },
+    {
+      "id": "004",
+      "title": "Logo迭代实验",
+      "description": "用AI辅助的品牌Logo设计探索",
+      "tool": "DALL·E 3",
+      "date": "2026-04-08",
+      "image": "/images/placeholder.png",
+      "tags": ["branding", "logo"]
+    }
+  ]
+}
