@@ -47,12 +47,27 @@ import defaultProfile from "@/data/profile.json";
    localStorage helpers
    ───────────────────────────────────────────── */
 
+const DATA_VERSION = "v2"; // bump this to force refresh from JSON defaults
+
 const KEYS = {
   english: "lee-space:english-log",
   gallery: "lee-space:gallery",
   galleryGroups: "lee-space:gallery-groups",
   profile: "lee-space:profile",
+  dataVersion: "lee-space:data-version",
 } as const;
+
+// Clear stale localStorage when data version changes
+if (typeof window !== "undefined") {
+  const storedVersion = localStorage.getItem(KEYS.dataVersion);
+  if (storedVersion !== DATA_VERSION) {
+    localStorage.removeItem(KEYS.english);
+    localStorage.removeItem(KEYS.gallery);
+    localStorage.removeItem(KEYS.galleryGroups);
+    localStorage.removeItem(KEYS.profile);
+    localStorage.setItem(KEYS.dataVersion, DATA_VERSION);
+  }
+}
 
 function readLS<T>(key: string): T | null {
   if (typeof window === "undefined") return null;
