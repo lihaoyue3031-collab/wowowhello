@@ -47,13 +47,14 @@ import defaultProfile from "@/data/profile.json";
    localStorage helpers
    ───────────────────────────────────────────── */
 
-const DATA_VERSION = "v2"; // bump this to force refresh from JSON defaults
+const DATA_VERSION = "v3"; // bump this to force refresh from JSON defaults
 
 const KEYS = {
   english: "lee-space:english-log",
   gallery: "lee-space:gallery",
   galleryGroups: "lee-space:gallery-groups",
   profile: "lee-space:profile",
+  completedPicks: "lee-space:completed-picks",
   dataVersion: "lee-space:data-version",
 } as const;
 
@@ -166,6 +167,7 @@ const englishStore = createStore<EnglishEntry[]>(KEYS.english, getDefaultEntries
 const galleryStore = createStore<GalleryItem[]>(KEYS.gallery, getDefaultGalleryItems);
 const groupsStore = createStore<string[]>(KEYS.galleryGroups, () => DEFAULT_GROUPS);
 const profileStore = createStore<ProfileData>(KEYS.profile, getDefaultProfile);
+const completedPicksStore = createStore<string[]>(KEYS.completedPicks, () => []);
 
 /* ─────────────────────────────────────────────
    React hooks
@@ -255,4 +257,29 @@ export function useProfile() {
   }, []);
 
   return { profile, updateProfile };
+}
+
+/** Completed picks hook — tracks which daily picks have been watched */
+export function useCompletedPicks() {
+  const completedPicks = useSyncExternalStore(
+    completedPicksStore.subscribe,
+    completedPicksStore.get,
+    () => [] as string[],
+  );
+
+  const togglePick = useCallback((id: string) => {
+    const current = completedPicksStore.get();
+    if (current.includes(id)) {
+      completedPicksStore.set(current.filter((p) => p !== id));
+    } else {
+      completedPicksStore.set([...current, id]);
+    }
+  }, []);
+
+  const isCompleted = useCallback(
+    (id: string) => completedPicks.includes(id),
+    [completedPicks],
+  );
+
+  return { completedPicks, togglePick, isCompleted };
 }

@@ -1,5 +1,6 @@
 import { StreakCounter } from "@/components/english/StreakCounter";
 import { LogList } from "@/components/english/LogList";
+import { DailyPick } from "@/components/english/DailyPick";
 
 export default function EnglishPage() {
   return (
@@ -20,6 +21,11 @@ export default function EnglishPage() {
         <p style={{ fontSize: 15, color: "var(--text-secondary)", marginTop: 8 }}>
           每日打卡记录 · 持续进步
         </p>
+      </div>
+
+      {/* Daily English Pick */}
+      <div style={{ marginBottom: 40 }}>
+        <DailyPick />
       </div>
 
       {/* Streak counter */}

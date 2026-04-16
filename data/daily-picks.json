@@ -1,0 +1,69 @@
+{
+  "picks": [
+    {
+      "id": "pick_20260416_1",
+      "date": "2026-04-16",
+      "section": "update",
+      "title": "Bob Odenkirk on His Bucket List...",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "Better Call Saul主演，语速清晰，话题日常",
+      "videoId": "b1HST_MPcMM",
+      "url": "https://www.youtube.com/watch?v=b1HST_MPcMM"
+    },
+    {
+      "id": "pick_20260416_2",
+      "date": "2026-04-16",
+      "section": "update",
+      "title": "Let's Learn English at the Food Court!",
+      "channel": "Bob the Canadian",
+      "category": "教学",
+      "rating": 4,
+      "duration": "18min",
+      "reason": "美食场景词汇，语速慢，午休轻松听",
+      "videoId": "EebIaiwNh9k",
+      "url": "https://www.youtube.com/watch?v=EebIaiwNh9k"
+    },
+    {
+      "id": "pick_20260416_3",
+      "date": "2026-04-16",
+      "section": "update",
+      "title": "What Conan told Sophie Turner before Tequila Slaps",
+      "channel": "Team Coco",
+      "category": "短片段",
+      "rating": 3,
+      "duration": "3min",
+      "reason": "Conan语速快，即兴多，有挑战，当甜点",
+      "videoId": "bJCScUcqmkY",
+      "url": "https://www.youtube.com/watch?v=bJCScUcqmkY"
+    },
+    {
+      "id": "pick_20260416_4",
+      "date": "2026-04-16",
+      "section": "curated",
+      "title": "How to Pronounce the Letter T in American English",
+      "channel": "Rachel's English",
+      "category": "发音",
+      "rating": 5,
+      "duration": "8min",
+      "reason": "美音T的4种发音规则，本周发音重点",
+      "videoId": "qOEkCq0VFOY",
+      "url": "https://www.youtube.com/watch?v=qOEkCq0VFOY"
+    },
+    {
+      "id": "pick_20260416_5",
+      "date": "2026-04-16",
+      "section": "curated",
+      "title": "English Conversation at a Restaurant",
+      "channel": "Bob the Canadian",
+      "category": "教学",
+      "rating": 4,
+      "duration": "15min",
+      "reason": "餐厅场景高频表达，实用性强",
+      "videoId": "PYVBPn-jl4g",
+      "url": "https://www.youtube.com/watch?v=PYVBPn-jl4g"
+    }
+  ]
+}
