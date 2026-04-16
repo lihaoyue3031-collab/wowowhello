@@ -47,7 +47,7 @@ import defaultProfile from "@/data/profile.json";
    localStorage helpers
    ───────────────────────────────────────────── */
 
-const DATA_VERSION = "v3"; // bump this to force refresh from JSON defaults
+const DATA_VERSION = "v4"; // bump this to force refresh from JSON defaults
 
 const KEYS = {
   english: "lee-space:english-log",
@@ -196,7 +196,13 @@ export function useEnglishLog() {
     englishStore.set(current.filter((e) => e.id !== id));
   }, []);
 
-  return { logs, addLog, updateLog, deleteLog };
+  const deleteLogs = useCallback((ids: string[]) => {
+    const idSet = new Set(ids);
+    const current = englishStore.get();
+    englishStore.set(current.filter((e) => !idSet.has(e.id)));
+  }, []);
+
+  return { logs, addLog, updateLog, deleteLog, deleteLogs };
 }
 
 /** Gallery hook */
