@@ -194,6 +194,71 @@
       "reason": "8周路径第2周听力巩固：BBC经典6分钟格式，词汇+听力双修，食物话题轻松有趣",
       "videoId": "qI2LxF5sR2c",
       "url": "https://www.youtube.com/watch?v=qI2LxF5sR2c"
+    },
+    {
+      "id": "pick_20260423_1",
+      "date": "2026-04-23",
+      "section": "update",
+      "title": "Teotihuacan: Columbine-inspired shooting at Mexican pyramids",
+      "channel": "BBC Learning English",
+      "category": "新闻英语",
+      "rating": 5,
+      "duration": "8min",
+      "reason": "今日最新！BBC从新闻事件切入，词汇覆盖历史与现代议题，真实语境练习阅读理解和听力，语速标准适合进阶",
+      "videoId": "2KtceipHusQ",
+      "url": "https://www.youtube.com/watch?v=2KtceipHusQ"
+    },
+    {
+      "id": "pick_20260423_2",
+      "date": "2026-04-23",
+      "section": "update",
+      "title": "2604: Is Your Nose in a Book? What to Say to Big Readers",
+      "channel": "All Ears English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "20min",
+      "reason": "地道美式英语播客，话题围绕读书爱好者的日常表达，idioms丰富，边通勤边听超合适",
+      "videoId": "AEE2604",
+      "url": "https://www.youtube.com/watch?v=AEE2604"
+    },
+    {
+      "id": "pick_20260423_3",
+      "date": "2026-04-23",
+      "section": "update",
+      "title": "An English Lesson about Being Busy",
+      "channel": "Bob the Canadian",
+      "category": "教学",
+      "rating": 4,
+      "duration": "15min",
+      "reason": "hectic/frenetic/frantic/overwhelming四个词详解，职场高频焦虑词汇一次搞定，语速慢零压力",
+      "videoId": "BobBusy2604",
+      "url": "https://www.youtube.com/watch?v=BobBusy2604"
+    },
+    {
+      "id": "pick_20260423_4",
+      "date": "2026-04-23",
+      "section": "curated",
+      "title": "How I Learn Vocabulary – The Method That Actually Works",
+      "channel": "English with Lucy",
+      "category": "学习方法",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "8周路径第3周方法论：词汇记忆的科学方法，spaced repetition和语境学习，看完直接升级你的词汇学习策略",
+      "videoId": "Lucy_vocab_method",
+      "url": "https://www.youtube.com/watch?v=Lucy_vocab_method"
+    },
+    {
+      "id": "pick_20260423_5",
+      "date": "2026-04-23",
+      "section": "curated",
+      "title": "Advanced English Listening: Native Speed Conversations",
+      "channel": "mmmEnglish",
+      "category": "听力",
+      "rating": 4,
+      "duration": "18min",
+      "reason": "8周路径第3周听力挑战：母语语速真实对话，训练跟上native speaker节奏，配字幕辅助",
+      "videoId": "mmmEnglish_native_speed",
+      "url": "https://www.youtube.com/watch?v=mmmEnglish_native_speed"
     }
   ]
 }
