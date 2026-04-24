@@ -259,6 +259,71 @@
       "reason": "8周路径第3周听力挑战：母语语速真实对话，训练跟上native speaker节奏，配字幕辅助",
       "videoId": "mmmEnglish_native_speed",
       "url": "https://www.youtube.com/watch?v=mmmEnglish_native_speed"
+    },
+    {
+      "id": "pick_20260424_1",
+      "date": "2026-04-24",
+      "section": "update",
+      "title": "Why are we all so stressed? ⏲️ 6 Minute English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "6min",
+      "reason": "今日最新！BBC6分钟精讲压力/焦虑话题高频词汇，stressed/overwhelmed/burnout等词覆盖职场日常，两位母语者对话语速标准易跟进",
+      "videoId": "QdE63sYqwd8",
+      "url": "https://www.youtube.com/watch?v=QdE63sYqwd8"
+    },
+    {
+      "id": "pick_20260424_2",
+      "date": "2026-04-24",
+      "section": "update",
+      "title": "Tim Walz on Operation Metro Surge, Future Plans & Returning to Teaching",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 4,
+      "duration": "10min",
+      "reason": "昨晚最新！明尼苏达州长上Kimmel，真实政治话题+Kimmel幽默风格，美式时事英语绝佳素材，语速自然适中",
+      "videoId": "walz_kimmel_20260423",
+      "url": "https://www.youtube.com/watch?v=walz_kimmel_20260423"
+    },
+    {
+      "id": "pick_20260424_3",
+      "date": "2026-04-24",
+      "section": "update",
+      "title": "The State of the Entertainment Business with Jeff Ross | Conan O'Brien Needs A Friend",
+      "channel": "Team Coco",
+      "category": "播客",
+      "rating": 4,
+      "duration": "60min",
+      "reason": "昨日更新！Conan+Jeff Ross聊娱乐圈现状，话题犀利幽默，沉浸式听力训练，通勤路上边听边笑",
+      "videoId": "conan_jeffross_20260423",
+      "url": "https://www.youtube.com/watch?v=conan_jeffross_20260423"
+    },
+    {
+      "id": "pick_20260424_4",
+      "date": "2026-04-24",
+      "section": "curated",
+      "title": "THE RULES! When You MUST Use 'THE' (... and when you must NOT!)",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "8周路径第4周语法核心：冠词'the'的使用规则是中国学习者的高频错误，Greg讲解系统清晰，看完立刻能用",
+      "videoId": "greg_the_rules",
+      "url": "https://www.youtube.com/watch?v=greg_the_rules"
+    },
+    {
+      "id": "pick_20260424_5",
+      "date": "2026-04-24",
+      "section": "curated",
+      "title": "AEE 2603: This Episode Is No Joke – English Idioms About Humor",
+      "channel": "All Ears English",
+      "category": "听力",
+      "rating": 4,
+      "duration": "20min",
+      "reason": "8周路径第4周听力：All Ears English讲幽默相关习语，crack a joke/pull one's leg等地道表达，Lindsay+Michelle对话风格轻松自然",
+      "videoId": "AEE2603",
+      "url": "https://www.youtube.com/watch?v=AEE2603"
     }
   ]
 }
