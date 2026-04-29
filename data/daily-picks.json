@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260429_1",
+      "date": "2026-04-29",
+      "section": "update",
+      "title": "'Science' English mega-class! 30 minutes of new vocab!",
+      "channel": "BBC Learning English",
+      "category": "词汇",
+      "rating": 5,
+      "duration": "30min",
+      "reason": "30分钟科学词汇大课，物理/生物/化学全覆盖，一次性扩充学术词汇库，午休沉浸式学习",
+      "videoId": "bbc_science_megaclass_20260428",
+      "url": "https://www.youtube.com/watch?v=bbc_science_megaclass_20260428"
+    },
+    {
+      "id": "pick_20260429_2",
+      "date": "2026-04-29",
+      "section": "update",
+      "title": "Are YOU Mispronouncing These 50 Common English Words?",
+      "channel": "English with Lucy",
+      "category": "发音",
+      "rating": 4,
+      "duration": "15min",
+      "reason": "50个中国人最常读错的词逐个纠正，Lucy标准RP口音示范，自测一遍就知道自己踩了多少坑",
+      "videoId": "lucy_50_mispronounced_20260426",
+      "url": "https://www.youtube.com/watch?v=lucy_50_mispronounced_20260426"
+    },
+    {
+      "id": "pick_20260429_3",
+      "date": "2026-04-29",
+      "section": "update",
+      "title": "Anthony Anderson on His BBQ Cookbook, AC Barbecue",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 4,
+      "duration": "10min",
+      "reason": "Anthony Anderson聊烧烤书，话题轻松接地气，美式日常对话好素材，边听边学美式幽默节奏",
+      "videoId": "kimmel_anderson_bbq_20260427",
+      "url": "https://www.youtube.com/watch?v=kimmel_anderson_bbq_20260427"
+    },
+    {
+      "id": "pick_20260429_4",
+      "date": "2026-04-29",
+      "section": "curated",
+      "title": "THE RULES! When You MUST Use 'THE' (... and when you must NOT!)",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "8周路径第6周语法核心：冠词规则是中国学习者终身痛点，Greg用真实场景拆解，看完立刻能用",
+      "videoId": "greg_the_rules",
+      "url": "https://www.youtube.com/watch?v=greg_the_rules"
+    },
+    {
+      "id": "pick_20260429_5",
+      "date": "2026-04-29",
+      "section": "curated",
+      "title": "Let's Learn English! Topic: Junk and Garbage! 🗑️",
+      "channel": "Bob the Canadian",
+      "category": "词汇",
+      "rating": 4,
+      "duration": "10min",
+      "reason": "8周路径第6周场景词汇：垃圾分类/环保话题高频表达，Bob语速慢讲解细，场景实用一学就会",
+      "videoId": "bob_junk_garbage_20260410",
+      "url": "https://www.youtube.com/watch?v=bob_junk_garbage_20260410"
+    },
+    {
       "id": "pick_20260416_1",
       "date": "2026-04-16",
       "section": "update",
