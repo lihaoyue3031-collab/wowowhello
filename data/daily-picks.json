@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260501_1",
+      "date": "2026-05-01",
+      "section": "update",
+      "title": "Should we eat ultra-processed food? ⏲️ 6 Minute English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "6min",
+      "reason": "今日最新5月1日BBC6分钟！超加工食品话题紧跟健康趋势，英音标准语速，process/artificial/convenience等高阶词汇一次学透，完美晨间听力热身",
+      "videoId": "uRftuSXN1q0",
+      "url": "https://www.youtube.com/watch?v=uRftuSXN1q0"
+    },
+    {
+      "id": "pick_20260501_2",
+      "date": "2026-05-01",
+      "section": "update",
+      "title": "Attempted assassination of President Donald Trump: BBC Learning English from the News",
+      "channel": "BBC Learning English",
+      "category": "新闻英语",
+      "rating": 5,
+      "duration": "8min",
+      "reason": "4月30日最新BBC新闻英语！真实国际头条学英语，assassination/security/evacuation等政治安全类高级词汇，BBC播音标准语速，新闻听力+阅读理解双训练",
+      "videoId": "k5dd29hOrsA",
+      "url": "https://www.youtube.com/watch?v=k5dd29hOrsA"
+    },
+    {
+      "id": "pick_20260501_3",
+      "date": "2026-05-01",
+      "section": "update",
+      "title": "Goldie Hawn on Her Crazy Alien Experience, Missing Her Oscars Win & Sketch with Harlem Globetrotters",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 4,
+      "duration": "15min",
+      "reason": "4月30日最新Kimmel访谈！Goldie Hawn口齿清晰故事引人，外星人奇遇+奥斯卡往事+搞笑短片三重话题，美式口语自然鲜活，无字幕挑战好材料",
+      "videoId": "suzqvlOt7y4",
+      "url": "https://www.youtube.com/watch?v=suzqvlOt7y4"
+    },
+    {
+      "id": "pick_20260501_4",
+      "date": "2026-05-01",
+      "section": "curated",
+      "title": "THE RULES! When You MUST Use THE (... and when you must NOT!)",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "13min",
+      "reason": "8周路径第7周语法精讲：the是英语最高频却最难掌握的词，Greg把必须用和绝不能用的场景逐一讲透，B1+必学语法基石，学完彻底告别冠词错误",
+      "videoId": "yotMKe63DLg",
+      "url": "https://www.youtube.com/watch?v=yotMKe63DLg"
+    },
+    {
+      "id": "pick_20260501_5",
+      "date": "2026-05-01",
+      "section": "curated",
+      "title": "Speaking English: Critical Phrases and Pronunciation Secrets",
+      "channel": "Rachel's English",
+      "category": "口语",
+      "rating": 5,
+      "duration": "26min",
+      "reason": "8周路径第7周口语冲刺：Rachel总结20+关键口语短语+美音发音秘诀，连读弱读重音全覆盖，从日常寒暄到正式表达，C1进阶口语必练",
+      "videoId": "chASjW5YYww",
+      "url": "https://www.youtube.com/watch?v=chASjW5YYww"
+    },
+    {
       "id": "pick_20260430_1",
       "date": "2026-04-30",
       "section": "update",
