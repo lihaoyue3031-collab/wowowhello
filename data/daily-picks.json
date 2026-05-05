@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260505_1",
+      "date": "2026-05-05",
+      "section": "update",
+      "title": "KT #766 - SAM TALLENT",
+      "channel": "Kill Tony",
+      "category": "脱口秀",
+      "rating": 5,
+      "duration": "2hr10min",
+      "reason": "今日凌晨全球首播！Sam Tallent回归客座，21K+观众在线蹲守。美式脱口秀真实语境，即兴互动+文化梗密度极高，2小时沉浸式美语听力马拉松",
+      "videoId": "1upKa86_uKU",
+      "url": "https://www.youtube.com/watch?v=1upKa86_uKU"
+    },
+    {
+      "id": "pick_20260505_2",
+      "date": "2026-05-05",
+      "section": "update",
+      "title": "Zach Galifianakis | Conan O'Brien Needs A Friend",
+      "channel": "Team Coco",
+      "category": "播客",
+      "rating": 5,
+      "duration": "1hr10min",
+      "reason": "5月4日最新！Zach回归Conan播客聊早期喜剧生涯+新节目，两位喜剧天才即兴交锋火花四溅，地道美式幽默+自然对话节奏，中高级听力必收",
+      "videoId": "zIXdKMLsPVY",
+      "url": "https://www.youtube.com/watch?v=zIXdKMLsPVY"
+    },
+    {
+      "id": "pick_20260505_3",
+      "date": "2026-05-05",
+      "section": "update",
+      "title": "Donald Trump Attacks Jimmy Kimmel AGAIN & Wants Him Fired \"SOON\"",
+      "channel": "Jimmy Kimmel Live",
+      "category": "脱口秀",
+      "rating": 4,
+      "duration": "16min",
+      "reason": "4.8M播放现象级片段！Kimmel回应Trump最新炮轰，美式政治讽刺+机智反击教科书级示范，话题性强语速适中，时事英语最佳素材",
+      "videoId": "jYJRgh5xVTw",
+      "url": "https://www.youtube.com/watch?v=jYJRgh5xVTw"
+    },
+    {
+      "id": "pick_20260505_4",
+      "date": "2026-05-05",
+      "section": "curated",
+      "title": "If you know these 15 Words, your English is EXCELLENT!",
+      "channel": "English with Lucy",
+      "category": "词汇测试",
+      "rating": 5,
+      "duration": "16min",
+      "reason": "8周路径第5周词汇进阶：Lucy经典词汇水平测试，15个C1级高阶词汇精准讲解+例句，从obsolete到ubiquitous层层递进，自测词汇量看你在哪个级别",
+      "videoId": "YabduvXKGdw",
+      "url": "https://www.youtube.com/watch?v=YabduvXKGdw"
+    },
+    {
+      "id": "pick_20260505_5",
+      "date": "2026-05-05",
+      "section": "curated",
+      "title": "Let's Learn English at a Hotel! | An English Travel Lesson with Subtitles",
+      "channel": "Bob the Canadian",
+      "category": "场景教学",
+      "rating": 5,
+      "duration": "21min",
+      "reason": "8周路径第6周旅行场景：Bob实地酒店教学，check-in/concierge/housekeeping/amenities全流程词汇，旅行必备实用英语，字幕跟读效果加倍",
+      "videoId": "MYX7RVOf3Yc",
+      "url": "https://www.youtube.com/watch?v=MYX7RVOf3Yc"
+    },
+    {
       "id": "pick_20260502_1",
       "date": "2026-05-02",
       "section": "update",
