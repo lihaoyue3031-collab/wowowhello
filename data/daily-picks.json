@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260515_1",
+      "date": "2026-05-15",
+      "section": "update",
+      "title": "Livvy Dunne Teaches Jimmy the Baywatch Run, Reveals She Auditioned for The White Lotus",
+      "channel": "The Tonight Show",
+      "category": "访谈",
+      "rating": 4,
+      "duration": "12min",
+      "reason": "5月13日最新！体操网红Livvy Dunne聊Baywatch重启版+White Lotus试镜，美式口语自然流畅，娱乐话题轻松有趣，语速适中适合中高级听力，Jimmy Fallon互动笑点密集",
+      "videoId": "t5wT6w1V_8w",
+      "url": "https://www.youtube.com/watch?v=t5wT6w1V_8w"
+    },
+    {
+      "id": "pick_20260515_2",
+      "date": "2026-05-15",
+      "section": "update",
+      "title": "Conan Gets An Anatomy Lesson | Conan O'Brien Needs A Fan",
+      "channel": "Team Coco",
+      "category": "播客",
+      "rating": 5,
+      "duration": "10min",
+      "reason": "今日最新！Conan和妇产科医生Jessica聊人体解剖，医学英语+美式幽默混搭，真实对话节奏自然，学习专业词汇同时享受喜剧，沉浸式听力训练",
+      "videoId": "mE8HIfvW7sc",
+      "url": "https://www.youtube.com/watch?v=mE8HIfvW7sc"
+    },
+    {
+      "id": "pick_20260515_3",
+      "date": "2026-05-15",
+      "section": "update",
+      "title": "How reading shapes your brain ⏲️ 6 Minute English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "6min",
+      "reason": "今日最新！BBC 6分钟英语精讲阅读如何改变大脑，neuroplasticity/vocabulary/acquisition等高阶词汇，英音标准语速清晰，完美晨间听力热身",
+      "videoId": "_PIlvBI9rXY",
+      "url": "https://www.youtube.com/watch?v=_PIlvBI9rXY"
+    },
+    {
+      "id": "pick_20260515_4",
+      "date": "2026-05-15",
+      "section": "curated",
+      "title": "Also, Too or As Well? – Stop Making This Mistake!",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "9min",
+      "reason": "8周路径第2周语法精练：三个高频近义词辨析，写作口语都用得上，Greg用简单规则帮你彻底分清too/also/as well的用法",
+      "videoId": "sCLievvaF9M",
+      "url": "https://www.youtube.com/watch?v=sCLievvaF9M"
+    },
+    {
+      "id": "pick_20260515_5",
+      "date": "2026-05-15",
+      "section": "curated",
+      "title": "Past Simple or Present Perfect? The 3 Golden Rules!",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "8周路径第8周语法总复习：现在完成时vs过去简单时是B2/C1最核心分水岭，Greg三条黄金法则一针见血，学完彻底告别时态混淆",
+      "videoId": "HtqbtQNHSvc",
+      "url": "https://www.youtube.com/watch?v=HtqbtQNHSvc"
+    },
+    {
       "id": "pick_20260505_1",
       "date": "2026-05-05",
       "section": "update",
