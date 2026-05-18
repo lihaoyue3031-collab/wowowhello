@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260518_1",
+      "date": "2026-05-18",
+      "section": "update",
+      "title": "Insane Heckler! | Netflix is a Joke Fest | Max Amini | Stand-up Comedy",
+      "channel": "Max Amini",
+      "category": "脱口秀",
+      "rating": 5,
+      "duration": "8min",
+      "reason": "今日最新！Netflix is a Joke Fest现场实录，Max即兴应对疯狂观众heckler，真实脱口秀语境中crowd work技巧满分，8分钟笑点密集，练习美式幽默反应+口语即兴表达",
+      "videoId": "BQARPv3MdcI",
+      "url": "https://www.youtube.com/watch?v=BQARPv3MdcI"
+    },
+    {
+      "id": "pick_20260518_2",
+      "date": "2026-05-18",
+      "section": "update",
+      "title": "Talking about meetings \ud83d\udcc5\ud83e\udd1d\ud83d\udc54 Real Easy English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "6min",
+      "reason": "今日最新BBC Real Easy English！Georgie和Beth用简单英语讨论会议话题，职场高频词汇agenda/minutes/action points一次搞定，语速清晰适合初中级，完美晨间热身",
+      "videoId": "TL61VKkme14",
+      "url": "https://www.youtube.com/watch?v=TL61VKkme14"
+    },
+    {
+      "id": "pick_20260518_3",
+      "date": "2026-05-18",
+      "section": "update",
+      "title": "James Cameron Emailed Billie Eilish's Mom To Pitch 3D Concert Film | Conan O'Brien Needs A Friend",
+      "channel": "Team Coco",
+      "category": "播客",
+      "rating": 4,
+      "duration": "5min",
+      "reason": "昨日最新！Conan聊James Cameron给Billie Eilish妈妈发邮件的趣事，好莱坞幕后故事+名人八卦，语速自然即兴笑点多，娱乐英语轻松听力素材",
+      "videoId": "XkDTj6vNWuY",
+      "url": "https://www.youtube.com/watch?v=XkDTj6vNWuY"
+    },
+    {
+      "id": "pick_20260518_4",
+      "date": "2026-05-18",
+      "section": "curated",
+      "title": "Speaking English: 7 Must-Know Phrases (Perfectly Spoken!)",
+      "channel": "Rachel's English",
+      "category": "口语",
+      "rating": 5,
+      "duration": "30min",
+      "reason": "8周路径第1周高频表达：Rachel精选7个日常必备短语+地道美音发音示范，从how's it going到nice to meet you全覆盖，连读弱读重音实战演练，口语基础必修课",
+      "videoId": "0NPI9gDrgvs",
+      "url": "https://www.youtube.com/watch?v=0NPI9gDrgvs"
+    },
+    {
+      "id": "pick_20260518_5",
+      "date": "2026-05-18",
+      "section": "curated",
+      "title": "Let's Learn English at the Grocery Store (Supermarket) | English Video with Subtitles",
+      "channel": "Bob the Canadian",
+      "category": "场景教学",
+      "rating": 5,
+      "duration": "5min",
+      "reason": "8周路径第3周生活场景：Bob经典超市实地教学，1.4M播放量验证品质，produce/deli/bakery/dairy等分区词汇全覆盖，5分钟短小精悍适合碎片学习，字幕跟读效果加倍",
+      "videoId": "NG-de6quWkE",
+      "url": "https://www.youtube.com/watch?v=NG-de6quWkE"
+    },
+    {
       "id": "pick_20260515_1",
       "date": "2026-05-15",
       "section": "update",
