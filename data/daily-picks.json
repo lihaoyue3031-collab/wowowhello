@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260519_1",
+      "date": "2026-05-19",
+      "section": "update",
+      "title": "KT #768 - SHANE GILLIS + JAMES MCCANN",
+      "channel": "Kill Tony",
+      "category": "脱口秀",
+      "rating": 5,
+      "duration": "2hr15min",
+      "reason": "今日首播！Shane Gillis回归Kill Tony爷青回，20K+观众实时蹲守，美式脱口秀即兴交锋+真实语境口语密度极高，沉浸式美语听力马拉松，中高级听力必收",
+      "videoId": "CnjJPpr10vM",
+      "url": "https://www.youtube.com/watch?v=CnjJPpr10vM"
+    },
+    {
+      "id": "pick_20260519_2",
+      "date": "2026-05-19",
+      "section": "update",
+      "title": "2618 - Should You Call a Man Sassy? Gendered Words in English",
+      "channel": "All Ears English",
+      "category": "口语",
+      "rating": 5,
+      "duration": "19min",
+      "reason": "今日最新！Lindsay+Michelle聊性别化词汇sassy/bossy/handsome/pretty，职场+社交双场景覆盖，真实对话节奏练听力，B2+文化敏感度+口语双进阶必收",
+      "videoId": "jryd1HMaXVo",
+      "url": "https://www.youtube.com/watch?v=jryd1HMaXVo"
+    },
+    {
+      "id": "pick_20260519_3",
+      "date": "2026-05-19",
+      "section": "update",
+      "title": "Let's Learn English! Topic: What is That Thing? 📢📼🧲 (Lesson Only)",
+      "channel": "Bob the Canadian",
+      "category": "场景教学",
+      "rating": 4,
+      "duration": "25min",
+      "reason": "昨日最新！Bob实物词汇教学25分钟，amplifier/stapler/magnet/thermometer等日常物品地道说法全覆盖，语速慢带字幕实物图片辅助记忆，碎片时间学词汇最佳选择",
+      "videoId": "JzdgeX80Cx0",
+      "url": "https://www.youtube.com/watch?v=JzdgeX80Cx0"
+    },
+    {
+      "id": "pick_20260519_4",
+      "date": "2026-05-19",
+      "section": "curated",
+      "title": "HAVE BEEN / HAS BEEN / HAD BEEN - Complete English Grammar Lesson with Examples",
+      "channel": "English with Lucy",
+      "category": "语法",
+      "rating": 5,
+      "duration": "38min",
+      "reason": "8周路径第4周核心语法：have been/has been/had been是B1→B2最核心时态分水岭，Lucy用对比表格+例句+发音示范系统讲解，覆盖现在完成/过去完成/被动语态，学完彻底搞定时态混乱",
+      "videoId": "rN91V1gqFmU",
+      "url": "https://www.youtube.com/watch?v=rN91V1gqFmU"
+    },
+    {
+      "id": "pick_20260519_5",
+      "date": "2026-05-19",
+      "section": "curated",
+      "title": "Speaking English: How To Sound Natural and Smooth",
+      "channel": "Rachel's English",
+      "category": "发音",
+      "rating": 5,
+      "duration": "16min",
+      "reason": "8周路径第6周发音进阶：Rachel独创Monster Voice训练法，两位真实学员现场演示placement纠正从德国到波兰口音全覆盖，发音突破必看",
+      "videoId": "zgqCsb4AirU",
+      "url": "https://www.youtube.com/watch?v=zgqCsb4AirU"
+    },
+    {
       "id": "pick_20260518_1",
       "date": "2026-05-18",
       "section": "update",
