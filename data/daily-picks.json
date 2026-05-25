@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260525_1",
+      "date": "2026-05-25",
+      "section": "update",
+      "title": "Top 10 Viral Names | Max Amini | Stand-up Comedy",
+      "channel": "Max Amini",
+      "category": "脱口秀",
+      "rating": 5,
+      "duration": "21min",
+      "reason": "Max最新热乎的！Top 10爆款名字脱口秀，美式幽默+真实互动语境，125K播放量，20分钟沉浸式地道美语听力训练，学最鲜活的日常调侃语气和crowd work技巧",
+      "videoId": "JeN4VJRg12w",
+      "url": "https://www.youtube.com/watch?v=JeN4VJRg12w"
+    },
+    {
+      "id": "pick_20260525_2",
+      "date": "2026-05-25",
+      "section": "update",
+      "title": "Talking about worries 😕🤦😬 Real Easy English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "5min",
+      "reason": "BBC最新Real Easy English！Neil和Georgie真实对话谈焦虑话题，worried/anxious/chilled/take your mind off等情绪词汇全覆盖，语速适中易跟进，5分钟完美晨间听力热身，学完即可用于日常情绪表达",
+      "videoId": "fLB70DZdqIE",
+      "url": "https://www.youtube.com/watch?v=fLB70DZdqIE"
+    },
+    {
+      "id": "pick_20260525_3",
+      "date": "2026-05-25",
+      "section": "update",
+      "title": "Let's Learn English! Topic: Before and After! 🌼🏃‍♀️🏋🏼 (Lesson Only)",
+      "channel": "Bob the Canadian",
+      "category": "场景教学",
+      "rating": 4,
+      "duration": "22min",
+      "reason": "Bob最新！before/after时间表达精讲，从装修前后到健身变化全覆盖，renovation/declutter/restore/makeover/reupholstery等实用生活词汇一次学透，语速慢带字幕实物图片辅助，适合碎片时间学实用句型",
+      "videoId": "xmgRkQhI9dY",
+      "url": "https://www.youtube.com/watch?v=xmgRkQhI9dY"
+    },
+    {
+      "id": "pick_20260525_4",
+      "date": "2026-05-25",
+      "section": "curated",
+      "title": "How to Pronounce the Letter T in American English",
+      "channel": "Rachel's English",
+      "category": "发音",
+      "rating": 5,
+      "duration": "8min",
+      "reason": "8周路径第1周发音基础：美音T的4种发音规则（true T/flap T/stop T/silent T）系统拆解，Rachel经典发音教程，8分钟碎片时间即可完成，学完即刻改善美音发音地道度，配合今日BBC听力对比英美发音差异效果加倍",
+      "videoId": "qOEkCq0VFOY",
+      "url": "https://www.youtube.com/watch?v=qOEkCq0VFOY"
+    },
+    {
+      "id": "pick_20260525_5",
+      "date": "2026-05-25",
+      "section": "curated",
+      "title": "THE RULES! When You MUST Use THE (... and when you must NOT!)",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "13min",
+      "reason": "8周路径第7周语法精讲：the是英语最高频却最难掌握的词，Greg把必须用和绝不能用的场景逐一讲透，B1+必学语法基石，学完彻底告别冠词错误，写作口语双重提升，配合今日Bob before/after场景句型练习形成语法+词汇完整闭环",
+      "videoId": "yotMKe63DLg",
+      "url": "https://www.youtube.com/watch?v=yotMKe63DLg"
+    },
+    {
       "id": "pick_20260523_1",
       "date": "2026-05-23",
       "section": "update",
