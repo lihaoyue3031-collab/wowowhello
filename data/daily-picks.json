@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260526_1",
+      "date": "2026-05-26",
+      "section": "update",
+      "title": "KT #769 - CHRIS O'CONNOR + MAT EDGAR",
+      "channel": "Kill Tony",
+      "category": "脱口秀",
+      "rating": 5,
+      "duration": "2hr19min",
+      "reason": "今日凌晨全球首播！Chris O'Connor+Mat Edgar双卡司回归，343K播放量火热话题，美式脱口秀真实语境即兴交锋密度极高，2小时沉浸式美语听力马拉松，中高级听力必收",
+      "videoId": "dnH3m89MEbE",
+      "url": "https://www.youtube.com/watch?v=dnH3m89MEbE"
+    },
+    {
+      "id": "pick_20260526_2",
+      "date": "2026-05-26",
+      "section": "update",
+      "title": "2623 - Whatever Happens, You Should Be Using This Vocabulary!",
+      "channel": "All Ears English",
+      "category": "口语",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "今日首播！Lindsay+Michelle最新whatever系列，whatever happens/whatever you do/whatever it takes等万能句型全覆盖，真实对话节奏练听力，12分钟碎片时间完美充电，B1+口语表达力即刻升级",
+      "videoId": "7l3C7ydPjw4",
+      "url": "https://www.youtube.com/watch?v=7l3C7ydPjw4"
+    },
+    {
+      "id": "pick_20260526_3",
+      "date": "2026-05-26",
+      "section": "update",
+      "title": "Olivia Munn (Full Episode) | Conan O'Brien Needs A Friend",
+      "channel": "Team Coco",
+      "category": "播客",
+      "rating": 4,
+      "duration": "1hr8min",
+      "reason": "昨日最新Conan完整集！Olivia Munn做客聊好莱坞幕后，80K播放量，Conan招牌自嘲+嘉宾自然对话，语速适中故事性强，1小时沉浸式美语听力训练，通勤/健身背景最佳伴侣",
+      "videoId": "u7sbnKiZCdE",
+      "url": "https://www.youtube.com/watch?v=u7sbnKiZCdE"
+    },
+    {
+      "id": "pick_20260526_4",
+      "date": "2026-05-26",
+      "section": "curated",
+      "title": "Are you gonna get GONNA right?!?",
+      "channel": "Rachel's English",
+      "category": "发音",
+      "rating": 5,
+      "duration": "20min",
+      "reason": "8周路径第2周发音核心：gonna/wanna/hafta/gotta等口语缩读系统精讲，Rachel逐词拆解连读弱读技巧，20分钟高密度美音发音训练，学完即刻听懂美剧日常对话中的缩读，配合今日AEE whatever口语课形成发音+表达完整闭环",
+      "videoId": "CZF1oWJ4_sE",
+      "url": "https://www.youtube.com/watch?v=CZF1oWJ4_sE"
+    },
+    {
+      "id": "pick_20260526_5",
+      "date": "2026-05-26",
+      "section": "curated",
+      "title": "Also, Too or As Well? – Stop Making This Mistake!",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "9min",
+      "reason": "8周路径第2周语法精练：also/too/as well三个高频近义词终极辨析，Greg用简单规则讲透位置+语气差异，9分钟碎片时间搞定一个顽固语法错误，写作口语双重提升，配合今日Rachel发音课形成第2周发音+语法完美组合",
+      "videoId": "sCLievvaF9M",
+      "url": "https://www.youtube.com/watch?v=sCLievvaF9M"
+    },
+    {
       "id": "pick_20260525_1",
       "date": "2026-05-25",
       "section": "update",
