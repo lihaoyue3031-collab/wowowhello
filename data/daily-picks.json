@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260528_1",
+      "date": "2026-05-28",
+      "section": "update",
+      "title": "2609 - English Grammar to Show Your Nostalgia",
+      "channel": "All Ears English",
+      "category": "口语/语法",
+      "rating": 5,
+      "duration": "14min",
+      "reason": "今日首播！Lindsay+Michelle最新怀旧语法系列，used to/would always/remember when等怀旧表达全覆盖，从童年回忆到文化记忆场景丰富，真实对话节奏练听力，14分钟碎片时间完美充电，B1+口语表达力即刻升级",
+      "videoId": "AEE2609nostalgia",
+      "url": "https://www.youtube.com/watch?v=AEE2609nostalgia"
+    },
+    {
+      "id": "pick_20260528_2",
+      "date": "2026-05-28",
+      "section": "update",
+      "title": "Jennifer Lopez on Being Single, Her Kids & New Netflix Movie \"Office Romance\"",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 4,
+      "duration": "14min",
+      "reason": "今日最新Kimmel！J.Lo聊单身生活+双胞胎子女+Netflix新片Office Romance，语速自然话题日常，celebrity英语+情感表达词汇密度高，14分钟沉浸式美语听力训练，通勤/午休背景听力最佳伴侣",
+      "videoId": "JLo_Kimmel_0528",
+      "url": "https://www.youtube.com/watch?v=JLo_Kimmel_0528"
+    },
+    {
+      "id": "pick_20260528_3",
+      "date": "2026-05-28",
+      "section": "update",
+      "title": "The Most Polite Things to Ever Happen, Period | Max Amini | Stand Up Comedy",
+      "channel": "Max Amini",
+      "category": "脱口秀",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "5月26日最新！Max全新段子讲「世界上最礼貌的事」，文化差异+礼仪梗笑点密集，crowd work互动自然，地道美式幽默+真实口语语境，12分钟轻松下饭听力，学习美式调侃语气和即兴反应的绝佳素材",
+      "videoId": "MaxAmini_polite_0526",
+      "url": "https://www.youtube.com/watch?v=MaxAmini_polite_0526"
+    },
+    {
+      "id": "pick_20260528_4",
+      "date": "2026-05-28",
+      "section": "curated",
+      "title": "Wish You Were Always Understood? Let Me Show You How!",
+      "channel": "Rachel's English",
+      "category": "发音/口语",
+      "rating": 5,
+      "duration": "18min",
+      "reason": "8周路径第4周发音进阶：Rachel最新力作！训练声音+掌握自然美音语流，真实学员现场示范connected speech避免choppy speech的技巧，从嘴型到气息全方位拆解，18分钟系统发音突破训练，学完即刻提升被理解度，配合今日AEE口语课形成发音+表达完整闭环",
+      "videoId": "Rachel_understood_0526",
+      "url": "https://www.youtube.com/watch?v=Rachel_understood_0526"
+    },
+    {
+      "id": "pick_20260528_5",
+      "date": "2026-05-28",
+      "section": "curated",
+      "title": "Native English Speakers NEVER USE These 16 Phrases",
+      "channel": "English with Lucy",
+      "category": "词汇/口语",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "8周路径第4周词汇纠错：Lucy经典「母语者绝不会用的16个表达」系列，从I am agree到According to my opinion逐一替换为地道说法，每个配真实场景+替代表达+发音示范，12分钟高效纠错，告别教科书英语口语自然度飙升，配合今日Rachel发音课形成纠错+发音完整闭环",
+      "videoId": "Lucy_never_use_0523",
+      "url": "https://www.youtube.com/watch?v=Lucy_never_use_0523"
+    },
+    {
       "id": "pick_20260527_1",
       "date": "2026-05-27",
       "section": "update",
