@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260529_1",
+      "date": "2026-05-29",
+      "section": "update",
+      "title": "Trump Assembles His Cabinet of Clowns & Jimmy Breaks Down Spencer Pratt's Run for LA Mayor",
+      "channel": "Jimmy Kimmel Live",
+      "category": "脱口秀/时事",
+      "rating": 5,
+      "duration": "15min",
+      "reason": "昨日最新Kimmel独白！Trump内阁人事讽刺+Spencer Pratt竞选LA市长热点双话题，美式政治幽默+时事词汇密度极高，assemble/cabinet/clown/campaign/mayoral race等高频时政词一网打尽，语速适中笑点密集，15分钟沉浸式美语时事听力训练",
+      "videoId": "Kimmel_cabinet_0528",
+      "url": "https://www.youtube.com/watch?v=Kimmel_cabinet_0528"
+    },
+    {
+      "id": "pick_20260529_2",
+      "date": "2026-05-29",
+      "section": "update",
+      "title": "Emily Blunt on Meryl Streep Dancing at Her Wedding & Working with Steven Spielberg on Disclosure Day",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "昨日最新！Emily Blunt英式口音清晰优雅，聊Meryl Streep婚礼上跳舞的趣事+Spielberg新片幕后，英美发音对比绝佳素材，wedding/disclosure/rehearsal/choreography等词汇覆盖日常+电影双场景，12分钟沉浸式听力训练",
+      "videoId": "EmilyBlunt_Kimmel_0528",
+      "url": "https://www.youtube.com/watch?v=EmilyBlunt_Kimmel_0528"
+    },
+    {
+      "id": "pick_20260529_3",
+      "date": "2026-05-29",
+      "section": "update",
+      "title": "How Conan Would Prank Relic Hunters In Colonial Williamsburg",
+      "channel": "Team Coco",
+      "category": "播客",
+      "rating": 4,
+      "duration": "8min",
+      "reason": "今日最新Conan片段！Conan脑洞大开畅想恶搞Colonial Williamsburg历史重演者，colonial/artifact/reenactment/prank等美国文化词汇+Conan招牌即兴想象力，8分钟轻松下饭听力，学习美式幽默假设句型和调侃语气",
+      "videoId": "Conan_prank_colonial",
+      "url": "https://www.youtube.com/watch?v=Conan_prank_colonial"
+    },
+    {
+      "id": "pick_20260529_4",
+      "date": "2026-05-29",
+      "section": "curated",
+      "title": "I Use These Phrasal Verbs Every Day — You Should Too!",
+      "channel": "English with Greg",
+      "category": "词汇/口语",
+      "rating": 5,
+      "duration": "14min",
+      "reason": "8周路径第5周短语动词进阶：Greg精选高频日常phrasal verbs——come up with/figure out/turn out/put off等，每个配3+真实场景例句+常见错误纠正，14分钟系统扩展口语词汇量，配合今日Kimmel时事听力形成词汇输入+听力输出完整闭环",
+      "videoId": "Greg_phrasal_daily",
+      "url": "https://www.youtube.com/watch?v=Greg_phrasal_daily"
+    },
+    {
+      "id": "pick_20260529_5",
+      "date": "2026-05-29",
+      "section": "curated",
+      "title": "Student Transformation: From Choppy to Smooth in 6 Days",
+      "channel": "Rachel's English",
+      "category": "发音/口语",
+      "rating": 5,
+      "duration": "20min",
+      "reason": "8周路径第5周发音突破：Rachel最新学员案例！6天从choppy speech到smooth flow的真实蜕变过程，before/after对比+训练方法全公开，connected speech/placement/intonation三大核心技巧实战演示，20分钟看到发音进步的可能性，激励+方法论双收",
+      "videoId": "Rachel_transform_6days",
+      "url": "https://www.youtube.com/watch?v=Rachel_transform_6days"
+    },
+    {
       "id": "pick_20260528_1",
       "date": "2026-05-28",
       "section": "update",
