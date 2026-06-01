@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260601_1",
+      "date": "2026-06-01",
+      "section": "update",
+      "title": "Learn the language of secrets 🤫🤐🙊 Real Easy English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "5min",
+      "reason": "5月31日最新！Neil和Georgie真实对话教secrets相关英语表达，secret/whisper/gossip/confidential/keep it to yourself等社交话题词汇全覆盖，英音标准语速适中易跟进，5分钟完美晨间听力热身，学完即刻用于日常私密话题表达，15K播放量",
+      "videoId": "Gct6PU-D5qw",
+      "url": "https://www.youtube.com/watch?v=Gct6PU-D5qw"
+    },
+    {
+      "id": "pick_20260601_2",
+      "date": "2026-06-01",
+      "section": "update",
+      "title": "Hilarious Dating Apps | Max Amini | Stand-up Comedy",
+      "channel": "Max Amini",
+      "category": "脱口秀",
+      "rating": 5,
+      "duration": "7min",
+      "reason": "今日最新6月1日！Max全新dating apps段子，swipe left/right/ghosting/catfish/match等现代社交词汇全覆盖，美式幽默+真实crowd work互动语境，80K播放量火热传播，7分钟轻松下饭听力，学习美式调侃语气和即兴反应的最佳素材",
+      "videoId": "Eknxoor9t9c",
+      "url": "https://www.youtube.com/watch?v=Eknxoor9t9c"
+    },
+    {
+      "id": "pick_20260601_3",
+      "date": "2026-06-01",
+      "section": "update",
+      "title": "This Week In Unnecessary Censorship",
+      "channel": "Jimmy Kimmel Live",
+      "category": "脱口秀",
+      "rating": 4,
+      "duration": "5min",
+      "reason": "5月31日最新！Kimmel招牌Unnecessary Censorship段子合集，Spencer Pratt/Steve Harvey等名人片段beep处理喜剧效果满分，美式幽默+时事速览笑点密集，5分钟零压力听力训练，学习美式调侃语气和文化梗的轻松素材",
+      "videoId": "x1UIC1k6GQo",
+      "url": "https://www.youtube.com/watch?v=x1UIC1k6GQo"
+    },
+    {
+      "id": "pick_20260601_4",
+      "date": "2026-06-01",
+      "section": "curated",
+      "title": "Best English Accent - Speak Like A Native (Placement Mastery)",
+      "channel": "Rachel's English",
+      "category": "发音",
+      "rating": 5,
+      "duration": "10min",
+      "reason": "8周路径第8周发音终极篇：Placement是整个美音训练体系的核心基石，Rachel经典讲解声道位置和共鸣控制，掌握placement就能让整体发音质量产生飞跃性提升，第8周收官必练发音课，10分钟碎片时间高效训练，配合今日Max Amini脱口秀对比地道美音效果加倍",
+      "videoId": "2W-KUSb3DTM",
+      "url": "https://www.youtube.com/watch?v=2W-KUSb3DTM"
+    },
+    {
+      "id": "pick_20260601_5",
+      "date": "2026-06-01",
+      "section": "curated",
+      "title": "You're Still Making These Speaking Mistakes – Fix Them Now!",
+      "channel": "English with Greg",
+      "category": "口语",
+      "rating": 5,
+      "duration": "13min",
+      "reason": "8周路径第7周口语纠错进阶：Greg一针见血指出中国学习者高频口语错误——时态混用/介词误用/发音陷阱/中式英语直译全覆盖，每个错误配正确示范+地道替代表达+场景例句，13分钟高密度纠错干货，学完即刻修正长期顽固错误，B1→B2口语突破必看",
+      "videoId": "BaRPHQPvelk",
+      "url": "https://www.youtube.com/watch?v=BaRPHQPvelk"
+    },
+    {
       "id": "pick_20260530_1",
       "date": "2026-05-30",
       "section": "update",
