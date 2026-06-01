@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260530_1",
+      "date": "2026-05-30",
+      "section": "update",
+      "title": "Living with debt ⏲️ 6 Minute English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "6min",
+      "reason": "5月28日最新！Neil和Pippa聊债务话题，debt/borrowing/repayment/interest/financial strain等金融生活词汇全覆盖，英音标准语速清晰，50K播放量火热传播，6分钟晨间听力完美热身，学完即刻用于日常财务话题表达",
+      "videoId": "dgFm7A8pyzo",
+      "url": "https://www.youtube.com/watch?v=dgFm7A8pyzo"
+    },
+    {
+      "id": "pick_20260530_2",
+      "date": "2026-05-30",
+      "section": "update",
+      "title": "5 Tenses = 96% of English",
+      "channel": "English with Lucy",
+      "category": "语法/口语",
+      "rating": 5,
+      "duration": "13min",
+      "reason": "5月28日最新！Lucy用12分钟讲透5个覆盖96%日常英语的核心时态——Present Simple/Past Simple/Future/Present Perfect/Present Continuous，从底层逻辑到实战例句系统梳理，46K播放量验证品质，学完彻底解决时态选择焦虑，写作口语双重提升",
+      "videoId": "ekbhnHEEOs8",
+      "url": "https://www.youtube.com/watch?v=ekbhnHEEOs8"
+    },
+    {
+      "id": "pick_20260530_3",
+      "date": "2026-05-30",
+      "section": "update",
+      "title": "Dan Levy on Failing Driving Test 12 Times, Growing Up with the Funniest People Ever & Big Mistakes",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 4,
+      "duration": "15min",
+      "reason": "5月28日最新！Schitt's Creek主创Dan Levy聊驾照失败12次+新书Big Mistakes幕后，driver's test/fail/grow up/documentary/agent等日常生活词汇密度高，207K播放量火爆传播，美式幽默+地道日常口语笑点密集，15分钟沉浸式听力训练",
+      "videoId": "z5s6NzpEskY",
+      "url": "https://www.youtube.com/watch?v=z5s6NzpEskY"
+    },
+    {
+      "id": "pick_20260530_4",
+      "date": "2026-05-30",
+      "section": "curated",
+      "title": "If You Don't Know These 12 Verbs, You're Not Advanced Yet!",
+      "channel": "English with Greg",
+      "category": "词汇/进阶",
+      "rating": 5,
+      "duration": "11min",
+      "reason": "8周路径第7周词汇突破：Greg精选12个高级动词替代get/make/do/say/think/show等基础词，acquire/facilitate/deteriorate/implement/conduct/undertake/articulate/craft等B2-C1精准表达层层递进，配免费worksheet跟练效果加倍，学完即刻告别基础词汇，口语写作学术感飙升",
+      "videoId": "rXNZzWyVHW8",
+      "url": "https://www.youtube.com/watch?v=rXNZzWyVHW8"
+    },
+    {
+      "id": "pick_20260530_5",
+      "date": "2026-05-30",
+      "section": "curated",
+      "title": "Past Simple or Present Perfect? The 3 Golden Rules!",
+      "channel": "English with Greg",
+      "category": "语法",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "8周路径第7周语法冲刺：现在完成时vs过去简单时是B2/C1最核心分水岭，Greg三条黄金法则一针见血——finished time用Past Simple/unfinished time用Present Perfect/result focus用Present Perfect，学完彻底告别时态混淆，写作口语双重提升，配合今日Lucy时态课形成语法完整闭环",
+      "videoId": "HtqbtQNHSvc",
+      "url": "https://www.youtube.com/watch?v=HtqbtQNHSvc"
+    },
+    {
       "id": "pick_20260529_1",
       "date": "2026-05-29",
       "section": "update",
