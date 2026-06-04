@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260604_1",
+      "date": "2026-06-04",
+      "section": "update",
+      "title": "Trump Threatens Late Night TV Again, Might Be Upset We Won a Peabody & His Suspicious Health Report",
+      "channel": "Jimmy Kimmel Live",
+      "category": "脱口秀/时事",
+      "rating": 5,
+      "duration": "14min",
+      "reason": "6月3日最新21小时前！2.5M播放量现象级Kimmel独白，Trump扬言要干掉剩下的三个深夜秀+Peabody奖获奖感言讽刺拉满+suspicious健康报告三重话题连环引爆，Peabody/First Amendment/censorship/freedom of speech等政治词汇密集，14分钟沉浸式美语时事听力，学最鲜活的美国政治讽刺语言",
+      "videoId": "Q4rM4d0l06k",
+      "url": "https://www.youtube.com/watch?v=Q4rM4d0l06k"
+    },
+    {
+      "id": "pick_20260604_2",
+      "date": "2026-06-04",
+      "section": "update",
+      "title": "What could a super El Niño bring? BBC Learning English from the News",
+      "channel": "BBC Learning English",
+      "category": "新闻英语",
+      "rating": 5,
+      "duration": "9min",
+      "reason": "6月3日最新13小时前！BBC新闻英语最新一期聚焦超级厄尔尼诺现象，El Niño/extreme weather/drought/flood/climate pattern等科学+天气词汇全覆盖，英音标准语速清晰带字幕，9分钟学时事英语+地理知识双丰收，climate/anomaly/disruption等学术词汇一网打尽",
+      "videoId": "j25wX7H1fnk",
+      "url": "https://www.youtube.com/watch?v=j25wX7H1fnk"
+    },
+    {
+      "id": "pick_20260604_3",
+      "date": "2026-06-04",
+      "section": "update",
+      "title": "Jeremy Allen White on Double Booking Baby Yoda for His Daughter's Birthday & The Bear Ending",
+      "channel": "Jimmy Kimmel Live",
+      "category": "访谈",
+      "rating": 4,
+      "duration": "17min",
+      "reason": "6月3日最新19小时前！79K播放量The Bear男主Jeremy Allen White聊给女儿生日double book了Baby Yoda+The Bear大结局幕后，double book/Baby Yoda/birthday party/season finale等日常+娱乐词汇密度高，语速自然话题轻松，17分钟沉浸式美语听力训练，通勤午休最佳伴侣",
+      "videoId": "ac2Do2NNlvI",
+      "url": "https://www.youtube.com/watch?v=ac2Do2NNlvI"
+    },
+    {
+      "id": "pick_20260604_4",
+      "date": "2026-06-04",
+      "section": "curated",
+      "title": "5 things to practise every day to improve your English communication skills",
+      "channel": "English with Lucy",
+      "category": "学习方法",
+      "rating": 5,
+      "duration": "12min",
+      "reason": "8周路径第4周学习方法论：Lucy给出5个独立日常练习法——shadow跟读/每日词汇日记/语音日记/角色扮演/迷你英语任务，115K播放验证品质，直接对标你现在的每日打卡体系，帮你把1小时输入变成高质量系统化训练，学完即刻升级每日练习效率",
+      "videoId": "-t7ZdEfYDes",
+      "url": "https://www.youtube.com/watch?v=-t7ZdEfYDes"
+    },
+    {
+      "id": "pick_20260604_5",
+      "date": "2026-06-04",
+      "section": "curated",
+      "title": "If you know these 75 words and phrases, your English is OUTSTANDING",
+      "channel": "English with Lucy",
+      "category": "词汇进阶",
+      "rating": 5,
+      "duration": "59min",
+      "reason": "8周路径第5周词汇进阶超级合集：Lucy精选75个从B1到C2级词汇+短语，hindsight/doom scrolling/situationship/nomophobia等现代地道英语全覆盖，附赠PDF练习册，129K播放量验证品质，59分钟周末沉浸式词汇突破最佳选择，测一下你现在5000词汇量哪些B2-C1词还不会",
+      "videoId": "4jt5kFM3MJY",
+      "url": "https://www.youtube.com/watch?v=4jt5kFM3MJY"
+    },
+    {
       "id": "pick_20260603_1",
       "date": "2026-06-03",
       "section": "update",
