@@ -1,6 +1,71 @@
 {
   "picks": [
     {
+      "id": "pick_20260605_1",
+      "date": "2026-06-05",
+      "section": "update",
+      "title": "Phrases English Speakers Use Every Day",
+      "channel": "Bob the Canadian",
+      "category": "场景教学",
+      "rating": 5,
+      "duration": "10min",
+      "reason": "6月3日最新！Bob精选日常高频短语全覆盖，at the end of the day/on the same page/cut to the chase/play it by ear等native speaker每天用的地道表达逐一拆解，21K播放量验证品质，语速适中带字幕适合跟读，10分钟碎片时间高效充电，学完即刻提升口语地道度，告别教科书英语",
+      "videoId": "wgWIlZV1OII",
+      "url": "https://www.youtube.com/watch?v=wgWIlZV1OII"
+    },
+    {
+      "id": "pick_20260605_2",
+      "date": "2026-06-05",
+      "section": "update",
+      "title": "The power of poetry ⏲️ 6 Minute English",
+      "channel": "BBC Learning English",
+      "category": "听力",
+      "rating": 5,
+      "duration": "6min",
+      "reason": "6月4日最新16小时前！BBC 6分钟英语最新一期聊诗歌的认知力量，poetry/cognitive/resilience/mental health/self-expression等学术+文化词汇全覆盖，英音标准语速清晰带字幕，6分钟晨间听力完美热身，学完即刻掌握用英语聊文学和心理健康话题的表达",
+      "videoId": "Cq8v437OWyU",
+      "url": "https://www.youtube.com/watch?v=Cq8v437OWyU"
+    },
+    {
+      "id": "pick_20260605_3",
+      "date": "2026-06-05",
+      "section": "update",
+      "title": "Conan Meets An Intimacy Coordinator | Conan O'Brien Needs A Fan",
+      "channel": "Team Coco",
+      "category": "播客",
+      "rating": 4,
+      "duration": "24min",
+      "reason": "6月5日最新13小时前！Conan采访片场亲密协调员的全新跨界喜剧，intimacy coordinator/boundary/consent/choreography等影视行业专业词汇自然穿插，29K播放量火热传播，Conan招牌自嘲+真实职场对话即兴交锋笑点密集，24分钟沉浸式美语听力训练，适合通勤/午休背景学习",
+      "videoId": "PFdcedPbGj4",
+      "url": "https://www.youtube.com/watch?v=PFdcedPbGj4"
+    },
+    {
+      "id": "pick_20260605_4",
+      "date": "2026-06-05",
+      "section": "curated",
+      "title": "How to Remember New English Vocabulary",
+      "channel": "Bob the Canadian",
+      "category": "学习方法",
+      "rating": 5,
+      "duration": "8min",
+      "reason": "8周路径第3周学习策略：Bob亲授英语词汇记忆方法论——不靠死记硬背，而是用context/repetition/mnemonics/mental associations四大技巧自然内化生词，23K播放量验证品质，8分钟短小精悍，直接对标你现在5000词级别最关心的『单词怎么吸收』问题，学完即刻升级你的词汇学习效率",
+      "videoId": "NaXrzSjsMdI",
+      "url": "https://www.youtube.com/watch?v=NaXrzSjsMdI"
+    },
+    {
+      "id": "pick_20260605_5",
+      "date": "2026-06-05",
+      "section": "curated",
+      "title": "Stop saying 'GO' – Use these 25 Advanced Verbs Instead!",
+      "channel": "English with Greg",
+      "category": "词汇进阶",
+      "rating": 5,
+      "duration": "13min",
+      "reason": "8周路径第5周词汇突破：Greg精选25个高级动词替代万能词go——depart/head/proceed/stroll/dash/retreat等从日常到学术场景全覆盖，每个词配2+真实例句+发音示范+常见错误纠正，13分钟高密度词汇升级课，B1→B2口语写作精准度即刻提升，学完告别go go go的单调表达",
+      "videoId": "5AKYAagTCK0",
+      "url": "https://www.youtube.com/watch?v=5AKYAagTCK0"
+    },
+    {
       "id": "pick_20260604_1",
       "date": "2026-06-04",
       "section": "update",
